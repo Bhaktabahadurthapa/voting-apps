@@ -15,7 +15,7 @@ spec:
         app: vote
     spec:
       containers:
-      - image: bhaktaCICD/votingapps:24
+      - image: bhaktaCICD/votingapps:25
         name: vote
         ports:
         - containerPort: 80
